@@ -1,0 +1,6 @@
+{
+  "version": "2.0.0",
+  "channel": "stable",
+  "installer_url": "https://github.com/TWOJA-FIRMA/TWOJE-REPO/releases/latest/download/WypozyczalniaInstrumentow_Setup.exe",
+  "notes": "Aktualizacja programu."
+}
